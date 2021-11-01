@@ -1,6 +1,6 @@
 package controller;
 
-import br.edu.fateczl.GabrielGuerra.pilhaString;
+import br.edu.fateczl.GabrielGuerra.pilhaString.Pilha;
 
 public class ControllerPalindromo {
 

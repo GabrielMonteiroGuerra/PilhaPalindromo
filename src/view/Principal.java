@@ -2,7 +2,7 @@ package view;
 
 import javax.swing.JOptionPane;
 
-import br.edu.fateczl.GabrielGuerra.pilhaString;
+import br.edu.fateczl.GabrielGuerra.pilhaString.Pilha;
 import controller.ControllerPalindromo;
 
 public class Principal {
